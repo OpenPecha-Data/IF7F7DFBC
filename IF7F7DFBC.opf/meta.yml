@@ -1,0 +1,73 @@
+id: IF7F7DFBC
+source: https://www.lotsawahouse.org
+source_file: null
+initial_creation_type: input
+imported: '2022-05-30T20:47:30.833685'
+last_modified: '2022-05-30T20:47:30.833710'
+parser: null
+source_metadata:
+  title: Fourth Dodrupchen Rinpoche Series
+  language: bo
+  description: 'Texts by and about the Fourth Dodrupchen Rinpoche, Tupten Trinlé Palzangpo
+    (thub bstan phrin las dpal bzang po, 1927–2022) alias Jigme Trinlé Palbar (''jigs
+    med phrin las dpal ''bar):'
+  volume:
+    f1A97:
+      title: Aspiration Prayer
+      base_file: f1A97.txt
+      order: 1
+      parent: Aspiration Prayers
+    f6FE9:
+      title: Aspiration for All Lives to Come
+      base_file: f6FE9.txt
+      order: 2
+      parent: Aspiration Prayers
+    fB921:
+      title: Guru Yoga
+      base_file: fB921.txt
+      order: 3
+      parent: Guru Yoga
+    fA4C7:
+      title: Prayer for the Long Life Dodrupchen Rinpoche
+      base_file: fA4C7.txt
+      order: 4
+      parent: Long Life Prayers
+    f90D0:
+      title: Prayer to the Guru
+      base_file: f90D0.txt
+      order: 5
+      parent: Prayers
+    f89F8:
+      title: A Prayer for the Swift Return of the Fourth Kyabje Dodrupchen Rinpoche
+      base_file: f89F8.txt
+      order: 6
+      parent: Swift Rebirth Prayers
+    fE629:
+      title: Prayer for Swift Rebirth of the Fourth Dodrupchen Rinpoche
+      base_file: fE629.txt
+      order: 7
+      parent: Swift Rebirth Prayers
+    fAD36:
+      title: Prayer for Swift Rebirth of the Fourth Dodrupchen Rinpoche, Tupten Trinlé
+        Palzangpo
+      base_file: fAD36.txt
+      order: 8
+      parent: Swift Rebirth Prayers
+    f4AE0:
+      title: Prayer for the Swift Rebirth of the Fourth Dodrupchen Rinpoche
+      base_file: f4AE0.txt
+      order: 9
+      parent: Swift Rebirth Prayers
+    fB900:
+      title: 'The Lotus Garland: A Short Feast-Offering for the Female Practice of
+        the Heart Essence of the Vast Expanse'
+      base_file: fB900.txt
+      order: 10
+      parent: Tsok
+statistics: {}
+quality: {}
+copyright:
+  status: Unknown
+  notice: ''
+  info_url: null
+license: null
